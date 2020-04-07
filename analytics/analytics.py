@@ -27,14 +27,18 @@ def mvpTerritories():
 #*prints each day as well as the number of MVP's for each territory*
 #print(mvp.groupby('day')['territory'].value_counts())
 
+
 ################################################################################################
 #single day related (single)
-#single = testday(1)
-#print(single.head())
-
+single = testday(14)
+print(single['territory'].value_counts(normalize = True)*100)
+#single['territory'].value_counts(normalize = True).plot(kind='bar')
+#plt.show()
 ################################################################################################
 #full dataset related (df)
-print(df['regularTeam'].value_counts())
+#print(df['regularTeam'].value_counts())
 
+################################################################################################
+#Mapping related
 ################################################################################################
 print("fin")

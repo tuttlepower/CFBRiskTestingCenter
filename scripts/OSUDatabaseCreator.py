@@ -1,10 +1,10 @@
 # import pandas as pd
 import pandas as pd
 
-#currently at 13 as of 4/5/2020
+#currently at 14 as of 4/6/2020
 
 #adds additional day 14 will be next
-day = 14
+day = 15
 
 temp = pd.read_json (r'https://collegefootballrisk.com/api/team/players?season=2&day='+str(day)+'&team=ohio%20state')
 
