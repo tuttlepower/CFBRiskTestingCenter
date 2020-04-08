@@ -30,7 +30,8 @@ def mvpTerritories():
 
 ################################################################################################
 #single day related (single)
-single = testday(14)
+single = testday(16)
+
 print(single['territory'].value_counts(normalize = True)*100)
 #single['territory'].value_counts(normalize = True).plot(kind='bar')
 #plt.show()
