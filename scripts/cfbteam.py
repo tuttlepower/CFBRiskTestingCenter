@@ -1,8 +1,28 @@
-import college_football_risk as risk
+import pandas as pd 
 
-team_api = risk.TeamsApi()
-territory_api = risk.TerritoriesApi()
-print(team_api.get_team_strength("Ohio State"))
-#print(territory_api.get_territory_history("Ohio State",2))
+def getTeamData(team,day):
+    temp = pd.read_json (r'https://collegefootballrisk.com/api/team/players?season=2&day='+str(day)+'&team='+str(team).replace(" ", "%20"))
+    return temp
 
+def teamlist():
+    print("test")
 
+def daysummary(team,day):
+    team = team
+    day = day
+    temp = getTeamData(team,day)
+    print("Summary: Day",day,",",team)
+    print("Players: ", len(temp['player']))
+    print("Distribution:")
+    print(temp['territory'].value_counts(normalize=False))
+
+def totalsummary(team):
+    print("test")
+
+#daysummary("Michigan",23)
+
+for x in range(20, 23):
+    temp = []
+    temp.append(daysummary("Michigan",x))
+    temp =pd.DataFrame(temp)
+    print (temp.head())
