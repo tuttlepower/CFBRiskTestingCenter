@@ -19,10 +19,4 @@ def daysummary(team,day):
 def totalsummary(team):
     print("test")
 
-#daysummary("Michigan",23)
-
-for x in range(20, 23):
-    temp = []
-    temp.append(daysummary("Michigan",x))
-    temp =pd.DataFrame(temp)
-    print (temp.head())
+daysummary("Michigan",25)
