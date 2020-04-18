@@ -14,9 +14,9 @@ def daysummary(team,day):
     print("Summary: Day",day,",",team)
     print("Players: ", len(temp['player']))
     print("Distribution:")
-    print(temp['territory'].value_counts(normalize=False))
+    print(temp['territory'].value_counts(normalize=True))
 
 def totalsummary(team):
     print("test")
 
-daysummary("Michigan",25)
+daysummary("Ohio State",25)
