@@ -1,0 +1,884 @@
+territory,winner,players,power,day
+Pittsburgh,Ohio State,64,174.0,30
+Penn State,Ohio State,43,212.0,30
+Buffalo,Ohio State,107,237.5,30
+USC,Michigan,34,313.5,30
+Mississippi State,Alabama,8,29.0,30
+Washington,Ohio State,79,493.0,30
+Boston College,Ohio State,159,596.0,30
+Texas State,Texas A&M,76,411.0,30
+Iowa State,Nebraska,29,335.0,30
+Houston,Texas A&M,90,476.0,30
+Indiana,Wisconsin,39,288.0,30
+Texas A&M,Texas A&M,197,612.5,30
+North Texas,Texas A&M,59,166.0,30
+Ohio State,Chaos,35,140.5,30
+Rutgers,Ohio State,43,194.0,30
+NC State,Chaos,23,196.0,30
+UT San Antonio,Michigan,117,557.0,30
+Oregon State,Michigan,54,201.0,30
+Oregon,Ohio State,56,176.0,30
+Wake Forest,Georgia Tech,9,85.5,30
+Charlotte,Georgia Tech,44,193.0,30
+BYU,Ohio State,57,216.0,30
+Middle Tennessee,Georgia Tech,80,445.0,30
+Tulane,Texas,43,236.5,30
+Syracuse,Michigan,62,366.5,30
+Arkansas State,Chaos,12,81.0,30
+Oklahoma State,Stanford,50,377.0,30
+Utah,Michigan,17,151.5,30
+Marshall,Ohio State,66,244.5,30
+Georgia,Alabama,2,24.0,30
+Georgia Tech,Georgia Tech,44,243.5,30
+Akron,Ohio State,18,110.5,30
+Maryland,Michigan,45,197.5,30
+Fresno State,Ohio State,52,374.5,30
+Memphis,Alabama,32,164.5,30
+Kent State,Ohio State,30,70.0,30
+Texas,Texas,125,544.5,30
+New Mexico,Michigan,22,60.0,30
+Virginia Tech,Georgia Tech,30,217.5,30
+Stanford,Michigan,104,339.5,30
+Air Force,Texas,13,96.5,30
+Coastal Carolina,Clemson,38,215.0,30
+Louisiana,Texas A&M,26,167.0,30
+East Carolina,Chaos,32,216.0,30
+Illinois,Wisconsin,65,272.0,30
+Missouri,Wisconsin,55,372.0,30
+TCU,Michigan,102,600.0,30
+Wyoming,Nebraska,58,511.5,30
+Colorado,Nebraska,1,18.0,30
+Ole Miss,Alabama,11,103.5,30
+Bowling Green,Ohio State,17,53.0,30
+Boise State,Michigan,42,302.5,30
+San José State,Michigan,37,282.0,30
+Minnesota,Wisconsin,50,342.0,30
+Georgia Southern,Georgia Tech,1,1.5,30
+Nevada,Ohio State,51,477.5,30
+Louisville,Georgia Tech,38,218.5,30
+LSU,Alabama,45,341.0,30
+Purdue,Wisconsin,40,339.0,30
+Florida Atlantic,Georgia Tech,29,265.5,30
+Northern Illinois,Wisconsin,38,276.5,30
+Iowa,Wisconsin,45,358.5,30
+UAB,Nebraska,12,87.0,30
+Miami,Chaos,38,187.0,30
+Troy,Alabama,5,41.0,30
+South Alabama,Alabama,6,46.5,30
+Georgia State,Georgia Tech,18,43.0,30
+Hawai'i,Georgia Tech,32,165.0,30
+Tennessee,Georgia Tech,32,262.5,30
+Army,Michigan,128,356.0,30
+Louisiana Tech,Texas,20,110.5,30
+Ohio,Michigan,34,162.0,30
+Kansas,Nebraska,32,254.0,30
+UNLV,Michigan,75,441.5,30
+Western Kentucky,Georgia Tech,30,168.5,30
+SMU,Texas A&M,81,305.0,30
+San Diego State,Georgia Tech,71,626.5,30
+UMass,Michigan,110,234.5,30
+Alabama,Alabama,22,95.0,30
+Temple,Ohio State,45,258.0,30
+Virginia,Ohio State,52,152.0,30
+Arizona,Michigan,12,58.0,30
+Miami (OH),Wisconsin,31,198.5,30
+Clemson,Georgia Tech,34,219.5,30
+Washington State,Nebraska,48,259.0,30
+Toledo,Wisconsin,31,246.0,30
+UCLA,Michigan,38,175.5,30
+Oklahoma,Stanford,62,214.0,30
+Louisiana Monroe,Alabama,13,68.5,30
+Arizona State,Michigan,37,127.5,30
+Utah State,Nebraska,63,312.0,30
+Liberty,Clemson,27,202.0,30
+Kansas State,Nebraska,31,207.5,30
+Florida,Georgia Tech,12,75.0,30
+Kentucky,Georgia Tech,48,298.5,30
+Chaos,Ohio State,59,580.0,30
+Arkansas,Texas A&M,27,122.0,30
+Duke,Chaos,31,170.0,30
+Vanderbilt,Alabama,34,273.5,30
+North Carolina,Clemson,25,205.0,30
+Florida State,Georgia Tech,4,24.0,30
+Baylor,Texas A&M,81,414.0,30
+California,Michigan,56,258.0,30
+Northwestern,Wisconsin,46,348.0,30
+Florida International,Georgia Tech,31,235.5,30
+South Carolina,Georgia Tech,27,228.5,30
+Colorado State,Nebraska,2,19.5,30
+Nebraska,Nebraska,57,381.5,30
+Texas Tech,Texas A&M,91,567.0,30
+Rice,Texas A&M,60,294.0,30
+Southern Mississippi,Alabama,69,398.0,30
+Tulsa,Wisconsin,55,288.0,30
+West Virginia,Ohio State,45,187.5,30
+Cincinnati,Ohio State,15,123.0,30
+Old Dominion,Clemson,37,113.5,30
+Troy,Georgia Tech,9,67.0,31
+Buffalo,Ohio State,41,178.5,31
+Washington,Ohio State,66,558.5,31
+Texas State,Texas A&M,83,376.0,31
+Iowa State,Nebraska,31,348.0,31
+Texas A&M,Texas A&M,77,317.5,31
+NC State,Georgia Tech,63,341.0,31
+North Texas,Texas A&M,63,221.5,31
+Houston,Texas,47,317.5,31
+Rutgers,Ohio State,36,193.0,31
+New Mexico State,Michigan,84,458.0,31
+Oregon State,Michigan,78,411.0,31
+Oregon,Ohio State,33,266.0,31
+Wake Forest,Georgia Tech,14,95.0,31
+Charlotte,Georgia Tech,40,446.5,31
+BYU,Ohio State,27,184.0,31
+Middle Tennessee,Georgia Tech,19,124.5,31
+Memphis,Georgia Tech,59,366.5,31
+UMass,Ohio State,148,569.5,31
+Oklahoma State,Stanford,41,206.0,31
+Louisiana,Texas,9,45.0,31
+UCLA,Ohio State,46,247.5,31
+Georgia Tech,Georgia Tech,32,113.5,31
+Old Dominion,Chaos,45,297.0,31
+Ohio State,Ohio State,82,197.0,31
+Vanderbilt,Georgia Tech,21,132.5,31
+Fresno State,Ohio State,43,296.0,31
+Colorado,Michigan,5,62.0,31
+Texas,Texas,205,688.5,31
+USC,Ohio State,49,297.5,31
+New Mexico,Michigan,86,494.0,31
+Tulsa,Stanford,43,229.0,31
+Navy,Ohio State,38,143.0,31
+Virginia Tech,Georgia Tech,10,60.5,31
+Air Force,Texas,26,190.5,31
+Bowling Green,Wisconsin,21,117.0,31
+SMU,Wisconsin,107,452.0,31
+Arkansas,Chaos,84,506.0,31
+Baylor,Texas,72,367.0,31
+Illinois,Wisconsin,30,208.0,31
+Marshall,Michigan,39,78.0,31
+Missouri,Wisconsin,68,507.5,31
+Wyoming,Nebraska,54,472.0,31
+Connecticut,Michigan,134,581.0,31
+Ole Miss,Alabama,25,257.5,31
+East Carolina,Clemson,24,216.0,31
+San José State,Michigan,34,270.5,31
+San Diego State,Michigan,22,98.0,31
+Minnesota,Wisconsin,48,354.0,31
+UT San Antonio,Texas A&M,114,500.5,31
+Georgia Southern,Georgia Tech,10,73.5,31
+Nevada,Ohio State,32,289.5,31
+Boston College,Michigan,78,660.5,31
+Louisville,Georgia Tech,7,70.5,31
+LSU,Alabama,34,302.5,31
+Maryland,Ohio State,82,225.5,31
+Cincinnati,Georgia Tech,73,299.0,31
+Florida Atlantic,Georgia Tech,36,337.5,31
+Iowa,Wisconsin,55,364.0,31
+Appalachian State,Georgia Tech,18,80.5,31
+South Alabama,Alabama,11,59.0,31
+Georgia State,Georgia Tech,12,82.5,31
+Kent State,Michigan,41,198.5,31
+Syracuse,Ohio State,126,544.5,31
+UTEP,Texas A&M,111,569.0,31
+Georgia,Georgia Tech,52,195.0,31
+Tennessee,Georgia Tech,12,73.0,31
+Army,Michigan,143,433.5,31
+Louisiana Tech,Texas,41,257.0,31
+Indiana,Georgia Tech,28,180.5,31
+Kansas,Nebraska,19,225.5,31
+UNLV,Michigan,59,343.0,31
+Western Kentucky,Georgia Tech,9,64.5,31
+Miami,Georgia Tech,45,230.0,31
+North Carolina,Chaos,28,362.5,31
+Florida International,Chaos,38,328.5,31
+Alabama,Alabama,10,76.5,31
+Temple,Ohio State,40,180.5,31
+Auburn,Georgia Tech,26,176.0,31
+Virginia,Ohio State,36,136.0,31
+Miami (OH),Wisconsin,38,276.0,31
+Clemson,Georgia Tech,24,57.5,31
+Washington State,Nebraska,28,402.0,31
+Toledo,Wisconsin,40,253.0,31
+Oklahoma,Stanford,15,187.5,31
+Louisiana Monroe,Alabama,45,329.5,31
+Arizona State,Michigan,50,422.0,31
+Utah State,Nebraska,45,386.5,31
+Coastal Carolina,Chaos,100,807.5,31
+Southern Mississippi,Texas,30,80.5,31
+Kansas State,Nebraska,9,111.5,31
+Kentucky,Georgia Tech,7,76.5,31
+Utah,Texas,27,175.0,31
+Duke,Chaos,32,226.0,31
+Florida State,Georgia Tech,8,55.5,31
+Akron,Chaos,15,143.0,31
+Liberty,Georgia Tech,39,228.0,31
+California,Michigan,38,231.0,31
+Arkansas State,Wisconsin,81,437.0,31
+Tulane,Texas A&M,35,234.5,31
+Stanford,Ohio State,110,339.5,31
+South Carolina,Georgia Tech,17,109.5,31
+Colorado State,Nebraska,2,6.0,31
+Nebraska,Nebraska,29,363.0,31
+Penn State,Michigan,43,217.0,31
+Ohio,Ohio State,79,284.0,31
+Texas Tech,Texas A&M,49,320.0,31
+UAB,Alabama,60,298.0,31
+Hawai'i,Chaos,25,285.5,31
+Rice,Texas A&M,71,300.5,31
+Boise State,Nebraska,83,310.5,31
+TCU,Texas A&M,88,389.5,31
+West Virginia,Ohio State,35,118.0,31
+Western Kentucky,Wisconsin,3,42.0,32
+Penn State,Ohio State,118,389.0,32
+Middle Tennessee,Alabama,6,37.5,32
+San Diego State,Chaos,78,316.5,32
+Ball State,Wisconsin,19,133.0,32
+Buffalo,Ohio State,72,282.0,32
+Mississippi State,Alabama,31,283.5,32
+UNLV,Ohio State,50,295.0,32
+Texas State,Texas A&M,48,269.0,32
+Georgia State,Alabama,2,5.0,32
+Iowa State,Nebraska,26,276.5,32
+Indiana,Wisconsin,38,190.0,32
+Texas A&M,Texas A&M,65,250.0,32
+Pittsburgh,Michigan,58,250.0,32
+Rutgers,Ohio State,64,309.0,32
+New Mexico State,Michigan,152,907.0,32
+NC State,Chaos,84,712.75,32
+Oregon State,Michigan,77,373.5,32
+Charlotte,Georgia Tech,21,192.25,32
+Memphis,Georgia Tech,15,100.5,32
+North Texas,Wisconsin,27,142.0,32
+Louisiana Monroe,Chaos,31,276.75,32
+Texas Tech,Michigan,85,588.0,32
+Chaos,Michigan,84,586.5,32
+Temple,Michigan,57,280.5,32
+Georgia Tech,Georgia Tech,8,13.5,32
+Ohio State,Ohio State,104,243.0,32
+Akron,Ohio State,30,90.0,32
+Rice,Texas,31,204.0,32
+USC,Ohio State,39,155.0,32
+Virginia,Chaos,9,93.5,32
+Tulsa,Stanford,23,264.5,32
+Houston,Wisconsin,77,433.0,32
+Texas,Texas A&M,169,665.0,32
+Navy,Ohio State,9,92.0,32
+Virginia Tech,Georgia Tech,26,227.5,32
+Coastal Carolina,Georgia Tech,27,147.0,32
+Louisiana Tech,Wisconsin,60,416.25,32
+Stanford,Michigan,29,251.0,32
+Illinois,Georgia Tech,20,142.5,32
+Bowling Green,Wisconsin,28,231.5,32
+Arizona State,Ohio State,103,512.0,32
+SMU,Wisconsin,68,511.5,32
+Louisiana,Texas A&M,18,137.5,32
+Clemson,Chaos,43,370.25,32
+East Carolina,Chaos,47,522.75,32
+Auburn,Alabama,15,77.0,32
+Baylor,Texas,86,486.5,32
+Oregon,Michigan,39,354.5,32
+Wyoming,Nebraska,42,410.5,32
+Colorado,Nebraska,18,152.5,32
+Connecticut,Michigan,124,424.0,32
+Ole Miss,Alabama,28,232.0,32
+BYU,Nebraska,25,172.0,32
+San José State,Michigan,44,220.5,32
+Minnesota,Wisconsin,47,319.5,32
+Arkansas State,Georgia Tech,36,196.25,32
+UT San Antonio,Texas A&M,31,245.0,32
+Nevada,Michigan,37,293.5,32
+Boston College,Michigan,221,682.5,32
+LSU,Alabama,32,315.5,32
+Purdue,Wisconsin,21,147.5,32
+Maryland,Ohio State,75,274.25,32
+Florida Atlantic,Georgia Tech,37,224.25,32
+Wake Forest,Chaos,18,129.5,32
+Iowa,Wisconsin,58,408.5,32
+Air Force,Nebraska,18,125.5,32
+Troy,Alabama,13,73.0,32
+South Alabama,Alabama,84,515.0,32
+Kent State,Michigan,104,301.5,32
+Syracuse,Ohio State,46,424.5,32
+UTEP,Texas A&M,82,531.5,32
+California,Ohio State,8,26.0,32
+Hawai'i,Georgia Tech,93,438.0,32
+Army,Michigan,144,458.0,32
+Kansas,Nebraska,11,127.0,32
+New Mexico,Texas A&M,134,904.0,32
+Miami,Georgia Tech,23,226.5,32
+UMass,Michigan,64,551.5,32
+Alabama,Alabama,31,110.0,32
+Miami (OH),Ohio State,11,65.0,32
+Arizona,Michigan,10,15.0,32
+Utah,Ohio State,40,353.0,32
+Washington,Michigan,97,637.5,32
+North Carolina,Georgia Tech,29,122.0,32
+Arkansas,Stanford,39,184.0,32
+Washington State,Nebraska,29,359.0,32
+Oklahoma,Stanford,9,91.0,32
+South Carolina,Chaos,33,269.0,32
+Utah State,Nebraska,41,384.0,32
+Kansas State,Nebraska,3,20.5,32
+Kentucky,Georgia Tech,30,193.5,32
+Duke,Chaos,70,482.0,32
+Vanderbilt,Alabama,14,106.0,32
+Missouri,Nebraska,62,443.25,32
+Florida State,Georgia Tech,3,30.0,32
+Tulane,Alabama,12,81.5,32
+Liberty,Georgia Tech,18,106.75,32
+Oklahoma State,Texas A&M,110,433.0,32
+Florida International,Georgia Tech,36,169.0,32
+Colorado State,Nebraska,4,40.5,32
+Nebraska,Nebraska,27,347.0,32
+Ohio,Ohio State,46,119.5,32
+UAB,Alabama,15,44.0,32
+Southern Mississippi,Alabama,39,200.0,32
+Marshall,Georgia Tech,110,360.5,32
+Fresno State,Michigan,45,186.0,32
+Boise State,Nebraska,48,337.0,32
+TCU,Texas A&M,44,225.0,32
+West Virginia,Ohio State,44,208.5,32
+Cincinnati,Ohio State,37,218.5,32
+South Florida,Georgia Tech,34,307.0,32
+Old Dominion,Clemson,71,493.0,32
+Penn State,Ohio State,67,446.0,33
+Middle Tennessee,Alabama,31,125.5,33
+USC,Chaos,51,184.5,33
+Ball State,Wisconsin,18,102.0,33
+Buffalo,Ohio State,52,589.0,33
+Mississippi State,Alabama,9,49.0,33
+Navy,Clemson,36,236.0,33
+Iowa State,Nebraska,15,222.0,33
+Houston,Texas A&M,80,529.5,33
+Oklahoma,Michigan,65,436.5,33
+Rutgers,Michigan,45,475.0,33
+Indiana,Wisconsin,15,95.0,33
+Texas A&M,Texas A&M,62,408.0,33
+NC State,Georgia Tech,24,85.0,33
+Pittsburgh,Michigan,196,505.5,33
+Oregon State,Michigan,23,44.0,33
+Iowa,Nebraska,75,550.5,33
+Wake Forest,Georgia Tech,18,102.0,33
+Akron,Michigan,58,189.0,33
+Tennessee,Chaos,45,454.0,33
+Washington,Nebraska,45,198.5,33
+Charlotte,Chaos,35,210.0,33
+Nevada,Nebraska,38,409.5,33
+Southern Mississippi,Chaos,48,435.25,33
+North Texas,Wisconsin,81,493.5,33
+Texas Tech,Michigan,145,698.0,33
+Marshall,Ohio State,12,59.0,33
+UCLA,Ohio State,52,229.0,33
+Old Dominion,Chaos,58,513.5,33
+Ohio State,Ohio State,128,265.5,33
+Rice,Texas,127,705.5,33
+Memphis,Alabama,19,111.0,33
+Arizona,Texas A&M,74,237.5,33
+Utah,Nebraska,43,110.0,33
+Kent State,Ohio State,140,463.0,33
+Virginia,Chaos,43,340.0,33
+Tulsa,Stanford,14,145.5,33
+Oklahoma State,Nebraska,29,154.0,33
+New Mexico State,Texas A&M,121,572.0,33
+Texas,Texas A&M,134,795.5,33
+Coastal Carolina,Georgia Tech,17,144.5,33
+Stanford,Michigan,99,491.5,33
+East Carolina,Chaos,35,218.0,33
+Arkansas,Chaos,30,197.25,33
+Illinois,Wisconsin,70,314.5,33
+Oregon,Michigan,63,502.5,33
+Wyoming,Nebraska,41,387.0,33
+Colorado,Nebraska,11,132.5,33
+Ole Miss,Alabama,40,366.0,33
+BYU,Nebraska,6,68.0,33
+Bowling Green,Ohio State,7,13.0,33
+San José State,Michigan,84,400.0,33
+Minnesota,Wisconsin,50,320.5,33
+Arkansas State,Georgia Tech,21,162.5,33
+UT San Antonio,Texas A&M,126,732.5,33
+Georgia Southern,Georgia Tech,50,418.0,33
+SMU,Texas,80,615.0,33
+Boston College,Michigan,101,738.0,33
+Louisville,Georgia Tech,2,20.0,33
+LSU,Alabama,51,519.75,33
+Virginia Tech,Chaos,19,134.75,33
+Purdue,Wisconsin,15,100.5,33
+Maryland,Ohio State,38,432.5,33
+Northern Illinois,Wisconsin,14,101.5,33
+Appalachian State,Georgia Tech,33,293.0,33
+Air Force,Nebraska,14,95.5,33
+Troy,Alabama,7,32.5,33
+South Alabama,Alabama,6,37.0,33
+Georgia State,Georgia Tech,31,152.0,33
+Syracuse,Ohio State,82,784.0,33
+UTEP,Texas A&M,109,674.0,33
+Georgia,Georgia Tech,42,369.5,33
+Hawai'i,Georgia Tech,30,261.5,33
+Army,Michigan,216,674.5,33
+Ohio,Michigan,66,208.5,33
+Kansas,Nebraska,7,78.0,33
+Missouri,Stanford,20,149.5,33
+New Mexico,Texas A&M,83,536.0,33
+Liberty,Chaos,57,428.25,33
+UNLV,Michigan,43,298.5,33
+Western Kentucky,Georgia Tech,39,177.5,33
+San Diego State,Georgia Tech,45,188.0,33
+UMass,Michigan,46,432.0,33
+Alabama,Alabama,23,91.0,33
+Temple,Ohio State,188,595.0,33
+Miami (OH),Ohio State,4,57.0,33
+Georgia Tech,Alabama,18,39.0,33
+North Carolina,Georgia Tech,30,206.0,33
+Clemson,Georgia Tech,33,160.0,33
+Washington State,Nebraska,17,253.5,33
+Toledo,Wisconsin,30,180.5,33
+Louisiana Monroe,Alabama,32,191.0,33
+Arizona State,Michigan,42,214.0,33
+Utah State,Nebraska,36,307.5,33
+Kansas State,Nebraska,1,18.0,33
+Florida,Georgia Tech,11,93.5,33
+Kentucky,Georgia Tech,9,64.0,33
+Vanderbilt,Alabama,48,267.5,33
+Florida State,Georgia Tech,5,42.0,33
+Baylor,Texas A&M,100,620.0,33
+Louisiana,Chaos,14,131.5,33
+Tulane,Alabama,6,37.5,33
+California,Michigan,56,477.5,33
+Northwestern,Wisconsin,15,109.5,33
+South Carolina,Georgia Tech,25,139.0,33
+Nebraska,Nebraska,28,277.5,33
+Louisiana Tech,Chaos,17,89.0,33
+Duke,Georgia Tech,45,327.0,33
+UAB,Alabama,6,39.0,33
+Fresno State,Michigan,52,328.5,33
+Boise State,Nebraska,39,267.5,33
+TCU,Texas A&M,90,669.5,33
+West Virginia,Ohio State,62,362.25,33
+Cincinnati,Ohio State,6,29.5,33
+Wisconsin,Wisconsin,47,303.5,34
+Middle Tennessee,Alabama,23,238.0,34
+Troy,Georgia Tech,11,61.0,34
+San Diego State,Chaos,22,162.5,34
+Ball State,Wisconsin,10,66.0,34
+Western Kentucky,Stanford,17,128.0,34
+Buffalo,Ohio State,49,576.0,34
+Texas Tech,Wisconsin,84,504.5,34
+Mississippi State,Alabama,29,196.5,34
+Iowa State,Nebraska,12,144.0,34
+Oklahoma,Michigan,84,381.0,34
+Rutgers,Michigan,42,367.0,34
+Indiana,Wisconsin,12,97.5,34
+Texas A&M,Texas A&M,93,522.5,34
+NC State,Georgia Tech,12,85.5,34
+Pittsburgh,Michigan,143,465.0,34
+Houston,Texas,73,536.0,34
+Oregon State,Michigan,10,15.0,34
+Wake Forest,Georgia Tech,8,70.5,34
+Maryland,Chaos,60,487.0,34
+Charlotte,Georgia Tech,22,93.0,34
+Akron,Michigan,121,449.0,34
+Washington,Nebraska,16,113.5,34
+Nevada,Nebraska,18,218.5,34
+Chaos,Michigan,51,123.5,34
+UCLA,Ohio State,91,541.5,34
+Georgia Tech,Georgia Tech,101,415.5,34
+Old Dominion,Chaos,64,461.0,34
+Rice,Texas,151,632.0,34
+Arizona,Texas A&M,59,161.0,34
+Utah,Nebraska,30,234.5,34
+Kent State,Ohio State,66,409.0,34
+Arkansas State,Stanford,13,35.0,34
+Louisiana,Alabama,16,81.0,34
+USC,Ohio State,126,454.0,34
+Oklahoma State,Nebraska,16,206.5,34
+New Mexico State,Texas A&M,82,280.5,34
+Texas,Texas A&M,81,568.0,34
+Coastal Carolina,Georgia Tech,17,112.5,34
+Stanford,Michigan,198,854.5,34
+Clemson,Chaos,50,462.0,34
+Memphis,Stanford,12,82.0,34
+Baylor,Texas,63,538.0,34
+Illinois,Wisconsin,40,358.5,34
+North Texas,Michigan,73,464.5,34
+Marshall,Michigan,67,182.0,34
+Oregon,Michigan,14,38.0,34
+Kentucky,Wisconsin,12,100.5,34
+Missouri,Wisconsin,85,473.0,34
+Wyoming,Nebraska,37,351.0,34
+Army,Ohio State,193,748.5,34
+Ole Miss,Alabama,26,229.5,34
+BYU,Nebraska,23,207.0,34
+Bowling Green,Ohio State,60,209.0,34
+Minnesota,Wisconsin,55,430.0,34
+Louisville,Chaos,3,45.0,34
+UT San Antonio,Texas A&M,104,647.0,34
+SMU,Texas,90,637.0,34
+Boston College,Michigan,86,651.5,34
+LSU,Alabama,25,285.0,34
+East Carolina,Georgia Tech,14,83.0,34
+San José State,Nebraska,14,46.5,34
+Northern Illinois,Wisconsin,34,283.5,34
+Iowa,Wisconsin,66,346.0,34
+Appalachian State,Georgia Tech,32,213.0,34
+Arkansas,Texas,82,474.0,34
+Air Force,Nebraska,15,203.5,34
+Georgia State,Georgia Tech,4,25.0,34
+UNLV,Chaos,50,440.5,34
+Syracuse,Ohio State,103,760.5,34
+UTEP,Texas A&M,108,628.5,34
+Georgia,Georgia Tech,52,385.5,34
+Louisiana Tech,Texas,36,240.0,34
+Ohio,Michigan,115,427.5,34
+Kansas,Nebraska,22,282.0,34
+New Mexico,Texas A&M,96,350.5,34
+South Alabama,Georgia Tech,65,414.5,34
+UMass,Michigan,43,485.5,34
+Temple,Ohio State,75,700.5,34
+Auburn,Georgia Tech,10,47.5,34
+Virginia,Ohio State,7,51.0,34
+Miami (OH),Ohio State,4,25.5,34
+North Carolina,Georgia Tech,4,22.5,34
+Washington State,Nebraska,19,231.0,34
+Toledo,Wisconsin,19,131.0,34
+Virginia Tech,Ohio State,28,169.0,34
+Louisiana Monroe,Alabama,15,172.5,34
+Ohio State,Michigan,83,284.5,34
+Arizona State,Michigan,126,699.5,34
+Vanderbilt,Alabama,21,124.5,34
+Florida State,Georgia Tech,3,21.5,34
+Tennessee,Alabama,82,481.0,34
+Liberty,Ohio State,22,126.0,34
+West Virginia,Michigan,56,370.5,34
+Tulane,Alabama,34,280.5,34
+Navy,Chaos,65,593.0,34
+California,Michigan,12,19.5,34
+Nebraska,Nebraska,33,249.0,34
+Penn State,Michigan,52,540.5,34
+Duke,Georgia Tech,4,54.0,34
+UAB,Alabama,10,54.5,34
+Southern Mississippi,Alabama,32,146.0,34
+Tulsa,Wisconsin,73,476.0,34
+Fresno State,Michigan,111,577.0,34
+Boise State,Nebraska,30,291.5,34
+TCU,Texas A&M,106,791.5,34
+Cincinnati,Ohio State,47,139.5,34
+Penn State,Ohio State,122,531.0,35
+Ball State,Wisconsin,15,121.5,35
+Texas Tech,Wisconsin,56,402.0,35
+USC,Michigan,73,393.0,35
+Mississippi State,Alabama,11,66.5,35
+UNLV,Ohio State,159,607.0,35
+BYU,Chaos,82,564.0,35
+Iowa State,Nebraska,20,236.5,35
+Oklahoma,Michigan,57,350.5,35
+Rutgers,Michigan,31,303.5,35
+Indiana,Wisconsin,39,320.0,35
+Texas A&M,Texas A&M,47,329.0,35
+Pittsburgh,Michigan,143,412.0,35
+Tulsa,Texas,75,330.5,35
+Houston,Texas,83,479.0,35
+Oregon State,Michigan,16,28.5,35
+Wake Forest,Georgia Tech,9,32.0,35
+Charlotte,Georgia Tech,44,293.0,35
+Middle Tennessee,Georgia Tech,57,397.0,35
+UMass,Ohio State,27,343.5,35
+Akron,Michigan,75,270.5,35
+Tennessee,Chaos,67,478.0,35
+Washington,Nebraska,15,77.0,35
+Louisville,Stanford,32,183.0,35
+Chaos,Michigan,24,48.5,35
+UCLA,Ohio State,65,357.5,35
+Arkansas,Alabama,40,351.0,35
+Georgia Tech,Georgia Tech,11,55.5,35
+Ohio State,Ohio State,99,337.5,35
+Buffalo,Michigan,49,516.0,35
+Maryland,Michigan,36,230.0,35
+Fresno State,Ohio State,138,537.5,35
+Kent State,Ohio State,40,340.5,35
+Arkansas State,Stanford,40,330.5,35
+Louisiana,Alabama,47,322.0,35
+Appalachian State,Chaos,34,316.5,35
+Oklahoma State,Nebraska,30,264.0,35
+New Mexico State,Texas A&M,2,21.0,35
+Texas,Texas A&M,114,664.0,35
+Navy,Ohio State,53,227.0,35
+Coastal Carolina,Georgia Tech,25,240.0,35
+Virginia,Michigan,59,240.0,35
+Stanford,Michigan,40,429.5,35
+SMU,Wisconsin,100,665.0,35
+Memphis,Stanford,8,106.5,35
+Auburn,Alabama,18,107.0,35
+Baylor,Texas,108,558.0,35
+Illinois,Wisconsin,10,82.5,35
+North Texas,Michigan,71,406.5,35
+Oregon,Michigan,12,28.5,35
+Kentucky,Wisconsin,41,297.5,35
+Wyoming,Nebraska,46,492.5,35
+Army,Ohio State,80,662.0,35
+Connecticut,Michigan,25,303.0,35
+Ole Miss,Alabama,10,46.5,35
+New Mexico,Nebraska,5,44.0,35
+Boise State,Michigan,6,32.0,35
+San José State,Michigan,36,244.5,35
+Minnesota,Wisconsin,39,297.0,35
+UT San Antonio,Texas A&M,55,490.0,35
+Old Dominion,Ohio State,26,156.0,35
+Nevada,Michigan,39,433.5,35
+Boston College,Michigan,46,416.5,35
+East Carolina,Georgia Tech,10,73.5,35
+Iowa,Wisconsin,44,349.0,35
+Air Force,Nebraska,17,249.5,35
+South Alabama,Alabama,14,91.5,35
+Georgia State,Georgia Tech,4,31.5,35
+Syracuse,Ohio State,77,709.5,35
+UTEP,Texas A&M,6,43.5,35
+Louisiana Tech,Texas,47,346.5,35
+Kansas,Nebraska,42,418.5,35
+San Diego State,Georgia Tech,107,425.0,35
+Liberty,Michigan,88,313.0,35
+Alabama,Alabama,22,124.5,35
+Temple,Ohio State,45,557.0,35
+Miami (OH),Ohio State,41,110.5,35
+Arizona,Michigan,133,792.5,35
+Western Kentucky,Chaos,62,427.0,35
+North Carolina,Georgia Tech,7,45.0,35
+Clemson,Georgia Tech,96,545.0,35
+Washington State,Nebraska,2,24.0,35
+Toledo,Wisconsin,18,111.0,35
+Louisiana Monroe,Alabama,57,385.5,35
+Arizona State,Michigan,181,960.0,35
+Utah,Texas A&M,12,191.0,35
+Vanderbilt,Alabama,8,51.0,35
+Missouri,Nebraska,60,441.0,35
+Bowling Green,Michigan,45,173.0,35
+Virginia Tech,Michigan,60,211.0,35
+Southern Mississippi,Georgia Tech,30,186.5,35
+West Virginia,Michigan,53,332.0,35
+California,Michigan,11,27.0,35
+Georgia,Chaos,68,540.5,35
+South Carolina,Georgia Tech,43,287.0,35
+Nebraska,Nebraska,30,364.5,35
+Ohio,Ohio State,82,273.5,35
+Duke,Georgia Tech,16,143.5,35
+UAB,Alabama,8,44.5,35
+Hawai'i,Chaos,50,370.5,35
+Rice,Texas A&M,151,699.0,35
+Marshall,Wisconsin,21,120.0,35
+TCU,Texas A&M,101,802.0,35
+Cincinnati,Ohio State,47,164.0,35
+Penn State,Ohio State,48,345.0,36
+Western Kentucky,Nebraska,32,259.0,36
+Ball State,Wisconsin,16,107.5,36
+Buffalo,Ohio State,101,406.0,36
+Texas Tech,Wisconsin,56,383.0,36
+USC,Michigan,66,327.0,36
+Colorado,Texas A&M,10,145.0,36
+Iowa State,Nebraska,13,120.5,36
+Miami (OH),Michigan,29,281.0,36
+Houston,Texas A&M,131,711.5,36
+Indiana,Wisconsin,29,257.5,36
+Texas A&M,Texas A&M,95,686.5,36
+Pittsburgh,Michigan,100,394.0,36
+Tulsa,Texas,48,399.5,36
+Rutgers,Ohio State,40,340.5,36
+Wake Forest,Georgia Tech,26,187.5,36
+Washington State,Michigan,6,41.0,36
+Charlotte,Georgia Tech,15,142.5,36
+Middle Tennessee,Georgia Tech,39,317.5,36
+UMass,Ohio State,90,664.5,36
+Ole Miss,Stanford,14,100.5,36
+Syracuse,Michigan,80,617.0,36
+North Texas,Wisconsin,57,350.0,36
+Duke,Ohio State,10,64.5,36
+Temple,Michigan,41,353.0,36
+Georgia Tech,Georgia Tech,36,246.5,36
+Ohio State,Ohio State,50,295.0,36
+Akron,Ohio State,111,453.5,36
+Maryland,Michigan,72,328.0,36
+Memphis,Chaos,66,601.75,36
+Utah,Nebraska,61,343.5,36
+Kent State,Ohio State,42,157.5,36
+Louisiana,Alabama,46,320.5,36
+Oklahoma State,Nebraska,15,237.0,36
+New Mexico State,Texas A&M,85,425.5,36
+Texas,Texas A&M,66,501.0,36
+Navy,Ohio State,46,239.0,36
+Stanford,Michigan,35,429.5,36
+Clemson,Chaos,40,366.0,36
+Auburn,Alabama,11,58.5,36
+Baylor,Texas,173,633.5,36
+Illinois,Wisconsin,37,282.75,36
+TCU,Michigan,143,694.0,36
+Wyoming,Nebraska,59,600.0,36
+Connecticut,Michigan,145,544.0,36
+BYU,Nebraska,84,488.0,36
+San José State,Michigan,41,394.5,36
+Minnesota,Wisconsin,35,259.0,36
+Louisville,Chaos,23,226.25,36
+Georgia Southern,Georgia Tech,45,362.0,36
+Nevada,Michigan,115,687.25,36
+Boston College,Michigan,81,574.0,36
+LSU,Alabama,5,30.0,36
+East Carolina,Georgia Tech,4,31.0,36
+Oregon State,Nebraska,14,51.0,36
+Iowa,Wisconsin,37,303.0,36
+Appalachian State,Georgia Tech,26,186.0,36
+Arkansas,Texas,38,305.5,36
+Miami,Chaos,46,337.5,36
+Air Force,Nebraska,9,138.0,36
+Troy,Alabama,10,33.0,36
+South Alabama,Alabama,6,26.0,36
+Georgia State,Georgia Tech,39,343.0,36
+UTEP,Texas A&M,3,28.5,36
+Georgia,Georgia Tech,63,259.0,36
+Hawai'i,Georgia Tech,50,283.0,36
+Tennessee,Georgia Tech,75,387.0,36
+Army,Michigan,69,467.5,36
+Louisiana Tech,Alabama,43,363.5,36
+New Mexico,Texas A&M,83,404.0,36
+UNLV,Michigan,102,675.0,36
+San Diego State,Georgia Tech,21,171.0,36
+Liberty,Michigan,35,145.0,36
+Alabama,Alabama,13,88.5,36
+Vanderbilt,Chaos,57,582.25,36
+Virginia,Ohio State,52,253.0,36
+Arizona,Michigan,63,523.5,36
+Washington,Michigan,5,32.0,36
+North Carolina,Georgia Tech,7,31.5,36
+Toledo,Wisconsin,83,684.5,36
+UCLA,Michigan,66,322.0,36
+Old Dominion,Michigan,36,61.0,36
+Arizona State,Michigan,66,504.5,36
+Utah State,Nebraska,61,509.5,36
+Oklahoma,Wisconsin,55,442.0,36
+Mississippi State,Georgia Tech,5,18.0,36
+Florida State,Georgia Tech,6,78.0,36
+Bowling Green,Michigan,67,457.0,36
+Missouri,Texas,99,610.75,36
+Virginia Tech,Michigan,72,410.5,36
+Southern Mississippi,Georgia Tech,8,56.0,36
+Chaos,Nebraska,28,73.5,36
+South Carolina,Georgia Tech,30,239.75,36
+Kentucky,Chaos,54,197.0,36
+Arkansas State,Nebraska,12,75.5,36
+Nebraska,Nebraska,28,278.0,36
+Ohio,Ohio State,38,132.5,36
+UAB,Alabama,5,15.0,36
+Rice,Texas A&M,99,581.0,36
+SMU,Michigan,65,485.5,36
+Cincinnati,Wisconsin,6,28.5,36
+Kansas,Texas,11,73.0,36
+Fresno State,Michigan,43,446.0,36
+Marshall,Wisconsin,52,191.0,36
+Boise State,Nebraska,10,76.0,36
+Louisiana Monroe,Georgia Tech,76,340.0,36
+West Virginia,Ohio State,89,252.5,36
+Tulane,Georgia Tech,5,22.5,36
+Pittsburgh,Ohio State,101,453.5,37
+Missouri,Chaos,80,787.5,37
+Texas Tech,Wisconsin,42,296.0,37
+USC,Michigan,91,428.5,37
+Texas State,Texas A&M,72,356.0,37
+Iowa State,Nebraska,13,125.5,37
+Houston,Texas A&M,89,477.0,37
+Air Force,Texas A&M,20,176.5,37
+Rutgers,Michigan,37,264.0,37
+Texas A&M,Texas,118,637.0,37
+Indiana,Wisconsin,26,208.5,37
+NC State,Georgia Tech,5,34.0,37
+Vanderbilt,Nebraska,37,201.0,37
+Tulsa,Texas,41,303.5,37
+New Mexico State,Michigan,85,427.0,37
+Oregon State,Michigan,5,18.5,37
+Wake Forest,Georgia Tech,13,145.5,37
+Middle Tennessee,Georgia Tech,13,93.0,37
+Akron,Michigan,31,338.0,37
+Tennessee,Chaos,27,257.0,37
+Charlotte,Chaos,22,192.0,37
+Syracuse,Michigan,133,653.0,37
+Arkansas State,Chaos,79,630.0,37
+North Texas,Wisconsin,50,271.5,37
+Ole Miss,Nebraska,88,665.5,37
+Chaos,Michigan,30,68.5,37
+Temple,Michigan,81,502.5,37
+Arkansas,Alabama,39,331.0,37
+Georgia Tech,Georgia Tech,5,39.0,37
+Louisville,Wisconsin,36,250.0,37
+Ohio State,Ohio State,57,239.5,37
+Buffalo,Michigan,54,529.0,37
+Memphis,Chaos,56,418.0,37
+Utah,Nebraska,7,70.0,37
+Kent State,Ohio State,42,229.0,37
+Louisiana,Alabama,16,166.5,37
+Ball State,Michigan,64,547.5,37
+Appalachian State,Chaos,21,196.5,37
+Texas,Texas A&M,130,822.0,37
+Navy,Ohio State,44,196.0,37
+Virginia Tech,Georgia Tech,44,232.0,37
+Mississippi State,Chaos,51,503.0,37
+Auburn,Alabama,23,180.5,37
+Illinois,Wisconsin,77,623.5,37
+Oregon,Michigan,10,15.0,37
+TCU,Michigan,110,684.5,37
+Wyoming,Nebraska,72,571.0,37
+Colorado,Nebraska,28,153.5,37
+Connecticut,Michigan,145,687.5,37
+Arizona State,Georgia Tech,73,355.0,37
+Oklahoma State,Wisconsin,32,345.0,37
+Alabama,Chaos,54,357.5,37
+Minnesota,Wisconsin,34,254.5,37
+Florida Atlantic,Chaos,32,271.5,37
+Nevada,Michigan,11,18.0,37
+Boston College,Michigan,316,1119.5,37
+LSU,Alabama,23,188.0,37
+Maryland,Ohio State,42,329.5,37
+East Carolina,Georgia Tech,4,48.0,37
+Iowa,Wisconsin,59,468.5,37
+Troy,Alabama,22,191.0,37
+South Alabama,Alabama,22,158.0,37
+Georgia State,Georgia Tech,2,12.0,37
+UTEP,Texas A&M,79,429.5,37
+Georgia,Georgia Tech,40,355.5,37
+Army,Michigan,153,722.5,37
+New Mexico,Texas A&M,50,360.0,37
+UNLV,Michigan,14,38.5,37
+SMU,Texas A&M,103,573.0,37
+Miami,Georgia Tech,22,124.0,37
+San Diego State,Georgia Tech,61,445.0,37
+UMass,Michigan,86,797.0,37
+Florida International,Chaos,22,208.5,37
+Virginia,Ohio State,36,205.0,37
+Arizona,Michigan,43,433.5,37
+Miami (OH),Wisconsin,84,575.5,37
+Western Kentucky,Chaos,49,537.5,37
+Washington,Michigan,4,22.5,37
+North Carolina,Georgia Tech,9,90.0,37
+Clemson,Georgia Tech,43,228.0,37
+Washington State,Nebraska,12,29.0,37
+Toledo,Wisconsin,89,732.5,37
+South Carolina,Chaos,33,244.5,37
+Utah State,Nebraska,10,95.0,37
+Coastal Carolina,Chaos,20,208.5,37
+Kansas State,Nebraska,4,57.0,37
+Old Dominion,Georgia Tech,83,359.5,37
+Oklahoma,Wisconsin,55,456.0,37
+Florida State,Georgia Tech,3,28.5,37
+Bowling Green,Michigan,82,562.0,37
+Baylor,Texas A&M,233,884.0,37
+Southern Mississippi,Georgia Tech,25,155.0,37
+Liberty,Ohio State,75,388.0,37
+Tulane,Alabama,10,40.0,37
+Colorado State,Nebraska,13,90.0,37
+Kentucky,Chaos,64,229.0,37
+Nebraska,Nebraska,35,329.0,37
+Penn State,Michigan,43,438.0,37
+Ohio,Ohio State,9,41.0,37
+Duke,Georgia Tech,50,214.0,37
+UAB,Alabama,24,257.5,37
+Hawai'i,Chaos,19,169.5,37
+Louisiana Monroe,Texas,34,156.5,37
+Kansas,Texas,13,105.5,37
+Marshall,Wisconsin,43,133.0,37
+Boise State,Nebraska,2,10.5,37
+West Virginia,Ohio State,30,186.0,37
+Louisiana Tech,Michigan,75,489.5,37
+Cincinnati,Ohio State,56,179.5,37
